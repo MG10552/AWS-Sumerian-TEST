@@ -1,7 +1,7 @@
 # Android_ShoppingList2
 Shopping list for Android systems made with Java. Different approach and enhanced functionality.
 
-Zadanie polega na przerobieniu aplikacji z mini-projektu 1 w taki sposób, aby zamiast lokalnej bazy danych wykorzystywała Google App Engine (Datastore) do przetrzymywania danych na temat produktów znajdujących się na liście zakupów (Przechowywanie opcji nie jest obowiązkowe). Opcjonalnie można wykorzystać inną platformę PaaS lub DBaaS (uzgodnić z prowadzącym). *
+Zadanie polega na przerobieniu aplikacji w taki sposób, aby zamiast lokalnej bazy danych wykorzystywała Google App Engine (Datastore) do przetrzymywania danych na temat produktów znajdujących się na liście zakupów (Przechowywanie opcji nie jest obowiązkowe). Opcjonalnie można wykorzystać inną platformę PaaS lub DBaaS (uzgodnić z prowadzącym). *
 
 Wymagania:
 
