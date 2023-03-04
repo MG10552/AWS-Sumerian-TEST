@@ -1,0 +1,26 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="NightTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryDarkNight</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkNight</item>
+        <item name="colorAccent">@color/colorAccentNight</item>
+        <item name="android:windowBackground">@color/colorPrimaryNight</item>
+        <item name="android:textColor">@color/colorPrimaryDarkNight</item>
+    </style>
+
+    <style name="FontSizeSmall">
+        <item name="android:textSize">12dp</item>
+    </style>
+    <style name="FontSizeMedium">
+        <item name="android:textSize">15dp</item>
+    </style>
+    <style name="FontSizeLarge">
+        <item name="android:textSize">18dp</item>
+    </style>
+</resources>
